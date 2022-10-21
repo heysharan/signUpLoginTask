@@ -1,4 +1,4 @@
-# SIGNUP PAGE
+# SIGNUP PAGE ● HTML ● CSS ● JS ● PHP ● Redis ● MySQL
 
 Steps to run this webpage in local machine 
 
@@ -10,3 +10,12 @@ Steps to run this webpage in local machine
 2. Downlaod the Zip File from GitHub and unzip the file - https://github.com/heysharan/signUpLoginTask
 
 ![2](https://user-images.githubusercontent.com/57586442/197152164-36c4b9c1-2407-4553-ba1e-bfaeb41a2c0b.png)
+
+3. Open the xampp root folder and naviagte to the htdocs folder and paste the unziped folder in it, in my case the folder path is - D:\xampp\htdocs
+
+![5](https://user-images.githubusercontent.com/57586442/197155279-12209ca2-0b62-4cfe-a445-4fb941a5ec9b.png)
+
+![3](https://user-images.githubusercontent.com/57586442/197155311-cc597ac2-4185-4c65-ae13-a05068305d26.png)
+
+![4](https://user-images.githubusercontent.com/57586442/197155338-74097dc9-64c9-403d-9d66-7cc07ab8ee7a.png)
+
