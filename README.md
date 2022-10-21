@@ -52,7 +52,7 @@ Steps to run this webpage in local machine
 
 ![5](https://user-images.githubusercontent.com/57586442/197165077-0a040858-339a-41ef-8f10-375d94c7cf71.png)
 
-● Once the table is created, it would like something like this !
+● Once the table is created, it would look something like this !
 
 ![13](https://user-images.githubusercontent.com/57586442/197167692-c5137717-b465-400a-bffb-171df2bacf6e.png)
 
