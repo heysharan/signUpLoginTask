@@ -37,33 +37,47 @@ Steps to run this webpage in local machine
 
 ![1](https://user-images.githubusercontent.com/57586442/197164964-ca5d0d4f-bd4f-409e-80d5-00a4d6530ed6.png)
 
-Enter database name as : uy_signup and click on create
+● Enter database name as : uy_signup and click on create
 
 ![2](https://user-images.githubusercontent.com/57586442/197164991-173da3f0-b273-410a-a2af-86734dbf6984.png)
 
-Enter table name as : users & numbers of columns as : 9 and click on create
+● Enter table name as : users & numbers of columns as : 9 and click on create
 
 ![3](https://user-images.githubusercontent.com/57586442/197165010-b484dc5a-ad6f-4a6f-9668-ae5034f0a1ab.png)
 
-Enter the details of the columns as follows and check the A_I box for id for AUTO_INCREMENT
+● Enter the details of the columns as follows and check the A_I box for id for AUTO_INCREMENT
 
 ![4](https://user-images.githubusercontent.com/57586442/197165050-4e0bb72f-c377-43f2-beaf-527eae87196c.png)
 
-Click on save
+● Click on save
 
 ![5](https://user-images.githubusercontent.com/57586442/197165077-0a040858-339a-41ef-8f10-375d94c7cf71.png)
 
-Once the table is created, it would like something like this !
+● Once the table is created, it would like something like this !
+
+![13](https://user-images.githubusercontent.com/57586442/197167692-c5137717-b465-400a-bffb-171df2bacf6e.png)
+
+● Open chrome and enter the url as - http://localhost/signupLogin/
 
 ![6](https://user-images.githubusercontent.com/57586442/197165118-6af09302-3df1-4c91-a66f-f7cf8c394d71.png)
 
+8. This is the landing page of our website
+
 ![7](https://user-images.githubusercontent.com/57586442/197165146-aeba3adb-8fa8-4687-8d23-ea1861bc08a5.png)
+
+9. Enter your basic details and click on the create account button
 
 ![8](https://user-images.githubusercontent.com/57586442/197165161-29ecea51-9cd0-4012-ac82-4a507e6e3e35.png)
 
+● Your account is created successfully, now click on the login button to login
+
 ![9](https://user-images.githubusercontent.com/57586442/197165172-a25470d4-0e54-4bfd-bd8f-6290fa54be79.png)
 
+10. Enter your details to login
+
 ![10](https://user-images.githubusercontent.com/57586442/197165187-e35db754-7453-47b9-945d-128684a389e3.png)
+
+11. This is the profile page, where you enter your details.
 
 ![11](https://user-images.githubusercontent.com/57586442/197165205-992fa696-50b7-4bb7-aee7-ac89d3102d32.png)
 
