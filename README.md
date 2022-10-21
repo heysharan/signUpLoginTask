@@ -68,7 +68,7 @@ Steps to run this webpage in local machine
 
 ![8](https://user-images.githubusercontent.com/57586442/197165161-29ecea51-9cd0-4012-ac82-4a507e6e3e35.png)
 
-● Your account is created successfully, now click on the login button to login
+● Once your account is created successfully, click on the login button to login
 
 ![9](https://user-images.githubusercontent.com/57586442/197165172-a25470d4-0e54-4bfd-bd8f-6290fa54be79.png)
 
