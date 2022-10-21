@@ -84,7 +84,7 @@ Steps to run this webpage in local machine
 
 ![11](https://user-images.githubusercontent.com/57586442/197165205-992fa696-50b7-4bb7-aee7-ac89d3102d32.png)
 
-13. Once you click on the logout button
+13. Click on the logout button to logout
 
 ![12](https://user-images.githubusercontent.com/57586442/197165220-3d79ebfa-7b5f-4003-8ff3-5af36cc0563c.png)
 
