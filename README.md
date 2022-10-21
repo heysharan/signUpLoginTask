@@ -77,11 +77,11 @@ Steps to run this webpage in local machine
 
 ![10](https://user-images.githubusercontent.com/57586442/197165187-e35db754-7453-47b9-945d-128684a389e3.png)
 
-11. This is the profile page, where you enter your details.
+11. This is the profile page, where you can enter your details.
 
 ![14](https://user-images.githubusercontent.com/57586442/197169965-bdaea258-331b-4fc4-8655-743ba9e3ba5f.png)
 
-12. Once you enter all your details, the profile would something like this !
+12. Once you enter all your details, the profile would look something like this !
 
 ![11](https://user-images.githubusercontent.com/57586442/197165205-992fa696-50b7-4bb7-aee7-ac89d3102d32.png)
 
