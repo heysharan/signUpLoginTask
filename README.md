@@ -27,4 +27,35 @@ Steps to run this webpage in local machine
 
 ![7](https://user-images.githubusercontent.com/57586442/197156694-d5d8b31a-090b-4936-872b-6c3c82ffa1c1.png)
 
-6. Click on 
+6. Click on Admin button of MySQL which would open phpMyAdmin page in the browser - http://localhost/phpmyadmin/
+
+![8](https://user-images.githubusercontent.com/57586442/197158035-767e6e2e-0830-467b-ab1b-d779e2478338.png)
+
+![9](https://user-images.githubusercontent.com/57586442/197158051-cf6c1b1e-7cb2-4be4-821a-3fbed524541a.png)
+
+7. Now we need to create Database and add Structure to it.
+
+![1](https://user-images.githubusercontent.com/57586442/197164964-ca5d0d4f-bd4f-409e-80d5-00a4d6530ed6.png)
+
+![2](https://user-images.githubusercontent.com/57586442/197164991-173da3f0-b273-410a-a2af-86734dbf6984.png)
+
+![3](https://user-images.githubusercontent.com/57586442/197165010-b484dc5a-ad6f-4a6f-9668-ae5034f0a1ab.png)
+
+![4](https://user-images.githubusercontent.com/57586442/197165050-4e0bb72f-c377-43f2-beaf-527eae87196c.png)
+
+![5](https://user-images.githubusercontent.com/57586442/197165077-0a040858-339a-41ef-8f10-375d94c7cf71.png)
+
+![6](https://user-images.githubusercontent.com/57586442/197165118-6af09302-3df1-4c91-a66f-f7cf8c394d71.png)
+
+![7](https://user-images.githubusercontent.com/57586442/197165146-aeba3adb-8fa8-4687-8d23-ea1861bc08a5.png)
+
+![8](https://user-images.githubusercontent.com/57586442/197165161-29ecea51-9cd0-4012-ac82-4a507e6e3e35.png)
+
+![9](https://user-images.githubusercontent.com/57586442/197165172-a25470d4-0e54-4bfd-bd8f-6290fa54be79.png)
+
+![10](https://user-images.githubusercontent.com/57586442/197165187-e35db754-7453-47b9-945d-128684a389e3.png)
+
+![11](https://user-images.githubusercontent.com/57586442/197165205-992fa696-50b7-4bb7-aee7-ac89d3102d32.png)
+
+![12](https://user-images.githubusercontent.com/57586442/197165220-3d79ebfa-7b5f-4003-8ff3-5af36cc0563c.png)
+
