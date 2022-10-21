@@ -37,13 +37,23 @@ Steps to run this webpage in local machine
 
 ![1](https://user-images.githubusercontent.com/57586442/197164964-ca5d0d4f-bd4f-409e-80d5-00a4d6530ed6.png)
 
+Enter database name as : uy_signup and click on create
+
 ![2](https://user-images.githubusercontent.com/57586442/197164991-173da3f0-b273-410a-a2af-86734dbf6984.png)
+
+Enter table name as : users & numbers of columns as : 9 and click on create
 
 ![3](https://user-images.githubusercontent.com/57586442/197165010-b484dc5a-ad6f-4a6f-9668-ae5034f0a1ab.png)
 
+Enter the details of the columns as follows and check the A_I box for id for AUTO_INCREMENT
+
 ![4](https://user-images.githubusercontent.com/57586442/197165050-4e0bb72f-c377-43f2-beaf-527eae87196c.png)
 
+Click on save
+
 ![5](https://user-images.githubusercontent.com/57586442/197165077-0a040858-339a-41ef-8f10-375d94c7cf71.png)
+
+Once the table is created, it would like something like this !
 
 ![6](https://user-images.githubusercontent.com/57586442/197165118-6af09302-3df1-4c91-a66f-f7cf8c394d71.png)
 
